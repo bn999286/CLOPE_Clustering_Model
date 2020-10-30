@@ -1,0 +1,8 @@
+('repulsion = ', 0.5, '-- no.clusters = ', 1, '-- purity = ', 1033)
+('repulsion = ', 1.0, '-- no.clusters = ', 2, '-- purity = ', 1264)
+('repulsion = ', 1.5, '-- no.clusters = ', 8, '-- purity = ', 2000)
+('repulsion = ', 2.0, '-- no.clusters = ', 16, '-- purity = ', 2000)
+('repulsion = ', 2.5, '-- no.clusters = ', 16, '-- purity = ', 2000)
+('repulsion = ', 3.0, '-- no.clusters = ', 16, '-- purity = ', 2000)
+('repulsion = ', 3.5, '-- no.clusters = ', 16, '-- purity = ', 2000)
+('repulsion = ', 4.0, '-- no.clusters = ', 16, '-- purity = ', 2000)
