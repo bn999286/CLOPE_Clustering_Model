@@ -1,7 +1,7 @@
 CLOPE Clustering Algorithm
 
 ***************************************************************************************
-Mushrooms experiment from article (mushrooms.csv): 
+Mushrooms experiment(mushrooms.csv): 
 1.CLOPE_mushrooms_type_repulsion.py
 Execution command: python CLOPE_mushrooms_type_repulsion.py
 ------------------------------------------------------------------------------------------------------
